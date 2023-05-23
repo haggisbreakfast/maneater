@@ -2,13 +2,13 @@
   <img alt="maneater band" class="photo drop-shadow" src="./assets/maneater.jpg" />
   <img alt="maneater" src="./assets/maneater-type.png" class="banner"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="left: 4rem; top: 2rem;"/>
-  <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="right: 28rem; top: 0rem;"/>
+  <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="right: 8rem; top: 10rem;"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="right: 4rem; top: 6rem;"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="right: 9rem; top: 17rem;"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="left: 60rem; top: 40rem;"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="left: 2rem; top: 45rem;"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="left: 10rem; bottom: 10rem;"/>
-  <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="left: 10rem; top: 20rem;"/>  
+  <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="left: 3rem; top: 26rem;"/>  
   <ul class="socials">
     <li>
       <a href="https://maneaterband.bandcamp.com/">
@@ -38,7 +38,7 @@
   </ul>
   <div class="content-window-container">
     <ContentWindow title="past shows" :list="[{name: 'Sled Island Festival', link:'https://www.sledisland.com/2019/maneater', venue: 'Calgary, AB'}, 
-    // {name: 'Arts Assembly Annual Fundraiser', link: 'https://www.artsassembly.ca/act-3', venue: 'Red Gate - Vancouver, BC'}, 
+    {name: 'Arts Assembly Annual Fundraiser', link: 'https://www.artsassembly.ca/act-3', venue: 'Red Gate - Vancouver, BC'}, 
     {name: 'Copper Owl', link: 'https://www.artsassembly.ca/act-3', venue: 'Victoria, BC'}, {name: 'Victory Lounge', link: 'https://www.artsassembly.ca/act-3', venue: 'Seattle, WA'}, {name: 'Greenhouse', link: 'https://www.artsassembly.ca/act-3', venue: 'Portland, OR'} ]"/>
     <ContentWindow title="press" :list="[{name: 'Stereogum', link: 'https://www.stereogum.com/1946986/maneater-noise/premiere/?fbclid=IwAR1zsjmt7-vbIMfdM3GJ4Vxz_M1iWrknbBpt3vKpOIjse1TCnnCDd2mMyTg'}, {name: 'Gold Flake Paint', link: 'https://www.goldflakepaint.co.uk/review-maneater-maneater/?fbclid=IwAR3VNXm2dLlmMmI1gydNCg-GnN7cWAT0w04IpbUNthlpMV3J8P8851uvIZM'}, { name:'CiTR Radio live set & interview', link:'https://www.citr.ca/radio/noise-complaint/episode/20190228/'}]" />
   </div>  
