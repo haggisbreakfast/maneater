@@ -2,8 +2,8 @@
   <img alt="maneater band" class="photo drop-shadow" src="./assets/maneater.jpg" />
   <img alt="maneater" src="./assets/maneater-type.png" class="banner"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="left: 4rem; top: 2rem;"/>
-  <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="right: 8rem; top: 10rem;"/>
-  <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="right: 4rem; top: 6rem;"/>
+  <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="right: 11rem; top: 6rem;"/>
+  <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="right: 4rem; top: 0rem;"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="right: 9rem; top: 17rem;"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="left: 60rem; top: 40rem;"/>
   <img alt="drawing of a person eating spaghetti" src="./assets/maneater-man.png" class="background-person" style="left: 2rem; top: 45rem;"/>
